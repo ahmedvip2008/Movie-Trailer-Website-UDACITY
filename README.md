@@ -1,6 +1,5 @@
 # Movie Trailer Website
 
----
 
 
 This project was created as a part of  **Full Stack Web Developer Nanodegree** at [Udacity](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
@@ -9,9 +8,9 @@ It shows you how to use the Python to dynamically generate a movie trailer websi
 
 
 
-## Requirements :
+## REQUIREMENTS :
 
-***
+
 
 1. Download and install Python 2 or 3 from [The Official Website](https://www.python.org).
 
@@ -20,9 +19,8 @@ It shows you how to use the Python to dynamically generate a movie trailer websi
 
 
 
-## Running the Application :
+## How to start :
 
-___
 
 * Open `entertainment_center.py` file to generate the html file
 
